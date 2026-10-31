@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+logs/*
+!logs/.gitkeep
+demo/output/
+config/dictionary.csv
+*.pem
+*.key
